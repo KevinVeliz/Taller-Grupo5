@@ -49,3 +49,10 @@ Integrantes: Garcia Lizbeth, Pulupa Kevin, Veliz Kevin, Vera Mateo
   * Por ultimo cambiamos el nombre de la base de datos que se genera en CouchDB
   
     ![11](https://user-images.githubusercontent.com/65980001/126695572-0943be1f-a6c6-47e0-b509-b046dd4fe377.png)
+    
+  8.- ELEMENTOS GUARDADOS EN COUCHDB
+  
+  ![13](https://user-images.githubusercontent.com/65980001/126702564-975d9b78-3acb-4a98-bf56-4892f92da0b8.png)
+  
+  ![12](https://user-images.githubusercontent.com/65980001/126702428-258e9cb1-7c02-4677-bd2c-7fb1304e1e25.png)
+ 
