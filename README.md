@@ -26,23 +26,26 @@ Integrantes: Garcia Lizbeth, Pulupa Kevin, Veliz Kevin, Vera Mateo
 
   * En MongoDB Atlas se elegira la opción conectar con una aplicación
   
-  * ![6](https://user-images.githubusercontent.com/65980001/126694666-befa8e4d-0f88-416f-9ec9-45585aeef919.png)
+    ![6](https://user-images.githubusercontent.com/65980001/126694666-befa8e4d-0f88-416f-9ec9-45585aeef919.png)
   
   * Se elegira el lenguaje y la versión
   
-  * ![7](https://user-images.githubusercontent.com/65980001/126694791-28fa2a3f-e077-476e-944f-4bdbef106b3f.png)
+    ![7](https://user-images.githubusercontent.com/65980001/126694791-28fa2a3f-e077-476e-944f-4bdbef106b3f.png)
   
   * Se copia el URL del cliente y este se agregara en el script ya definido
   
-  * ![8](https://user-images.githubusercontent.com/65980001/126694926-031e2589-1815-4377-9264-98857d871de9.png)
+    ![8](https://user-images.githubusercontent.com/65980001/126694926-031e2589-1815-4377-9264-98857d871de9.png)
   
  7.- Dentro del script modificamos lo siguiente:
  
   * Dentro del script en la línea 19 se agrega el URL
   
-  * 
+    ![9](https://user-images.githubusercontent.com/65980001/126695354-494fd478-e86d-46a2-8012-0075093ba754.png)
   
   * También en la línea 28 se cambia el nombre entre comillas, por el nombre del proyecto que creamos en MongoDB Compass
   
+    ![10](https://user-images.githubusercontent.com/65980001/126695427-2f949321-0608-4700-8774-7cc1a38273cc.png)
+  
   * Por ultimo cambiamos el nombre de la base de datos que se genera en CouchDB
   
+    ![11](https://user-images.githubusercontent.com/65980001/126695572-0943be1f-a6c6-47e0-b509-b046dd4fe377.png)
